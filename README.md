@@ -1,1 +1,3 @@
-# spatial_data
+# Spatial Data
+
+Utilizing spatial data in Unity
